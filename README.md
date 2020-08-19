@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Hemanth's github stats](https://hmswrth-git-master.hmswrth.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight)
+![Hemanth's github stats](https://github-readme-stats.hmswrth.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://hmswrth-git-master.hmswrth.vercel.app/api/top-langs/?username=hmswrth)
+![Top Langs](https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth)
 
 [website]: https://github.com/hmswrth/ReactApp
 [instagram]: https://instagram.com/hmswrth
