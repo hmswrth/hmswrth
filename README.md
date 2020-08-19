@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Hemanth  👋
 
-## I'm a Full Stack Developer and a Machine Learning enthusiast!
+### I'm a Full Stack Developer and a Machine Learning enthusiast!
 
 - 🔭 I’m currently working on a [React Application][website]!
 - 🌱 I’m currently learning React and Node.js 
