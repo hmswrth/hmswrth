@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmswrth)
 
 [website]: https://github.com/hmswrth/ReactApp
 [instagram]: https://instagram.com/hmswrth
