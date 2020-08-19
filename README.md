@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hmswrth)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://github.com/hmswrth/ReactApp
 [instagram]: https://instagram.com/hmswrth
 [linkedin]: https://www.linkedin.com/in/hemanth-mudra/
