@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/hmswrth">
   <img align="center" src="https://github-readme-stats.hmswrth.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight" alt="github stats" />
 </a>
-<br />
+
 <a href="https://github.com/hmswrth">
- <img align="center" src="https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth&theme=tokyonight" alt="top languages"/>
+ <img align="center" src="https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth&theme=tokyonight&layout=compact" alt="top languages"/>
 </a>
 <br />
 <br />
