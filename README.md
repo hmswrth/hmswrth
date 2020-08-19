@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
-
+<a>
 ![Hemanth's github stats](https://github-readme-stats.hmswrth.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth)
+![Top Langs](https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth&theme=tokyonight)
+</a>
 
 [website]: https://github.com/hmswrth/ReactApp
 [instagram]: https://instagram.com/hmswrth
