@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/hmswrth">
  <img align="center" src="https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth&theme=tokyonight" alt="top languages"/>
 </a>
-
+<br />
+<br />
 <p align="center">
 <a href=" https://www.linkedin.com/in/hemanth-mudra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 <a href="https://instagram.com/hmswrth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
