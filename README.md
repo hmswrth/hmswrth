@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm a Full Stack Developer and a Machine Learning enthusiast!
 
 - 🔭 I’m currently working on a [React Application][website]!
-- 🌱 I’m currently learning React.js and Node.js 
+- 🌱 I’m currently learning React and Node.js 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and build powerful machines that "flex on specs"
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight)
+![Hemanth's github stats](https://hmswrth.vercel.app/api?username=hmswrth&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmswrth)
+![Top Langs](https://hmswrth.vercel.app/api/top-langs/?username=hmswrth)
 
 [website]: https://github.com/hmswrth/ReactApp
 [instagram]: https://instagram.com/hmswrth
