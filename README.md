@@ -23,14 +23,6 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and build powerful machines that "flex on specs"
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <p align="left">
@@ -45,6 +37,10 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.hmswrth.vercel.app/api/top-langs/?username=hmswrth&theme=tokyonight" alt="top languages"/>
 </a>
 
+<p align="center">
+<a href=" https://www.linkedin.com/in/hemanth-mudra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
+<a href="https://instagram.com/hmswrth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
+<a href="mailto:mudra.hemanth@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
+</p>
+
 [website]: https://github.com/hmswrth/ReactApp
-[instagram]: https://instagram.com/hmswrth
-[linkedin]: https://www.linkedin.com/in/hemanth-mudra/
