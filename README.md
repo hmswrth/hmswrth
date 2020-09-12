@@ -26,9 +26,9 @@
 <br />
 <br />
 <p align="center">
-<a href=" https://www.linkedin.com/in/hemanth-mudra/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-<a href="https://instagram.com/hems0009" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
-<a href="mailto:mudra.hemanth@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
+<a href=" https://www.linkedin.com/in/hemanth-mudra/" target=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
+<a href="https://instagram.com/hems009" target=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
+<a href="mailto:mudra.hemanth@gmail.com" target=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
 
 [website]: https://github.com/hmswrth/ReactApp
