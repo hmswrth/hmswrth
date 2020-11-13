@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [React Application][website]!
 - 🌱 I’m currently learning React and Node.js 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about custom built PCs
 - 🥅 2020 Goals: Contribute more to Open Source projects find some inspiration along the way 😄
 - ⚡ Fun fact: I love to play video games and build powerful machines that "flex on specs"
