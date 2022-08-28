@@ -1,13 +1,13 @@
 ### Hi there, I'm Hemanth  👋
 
-### I'm a Full Stack Developer and a Machine Learning enthusiast!
+### I'm a Full Stack Developer and a Web3 enthusiast!
 
-- 🔭 I’m currently working on a [React Application][website]!
-- 🌱 I’m currently learning React and Node.js 
+- 🔭 I’m currently working at [Saveo Healthtech][website]!
+- 🌱 I’m currently exploring React and Node.js 
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about custom built PCs
-- 🥅 2020 Goals: Contribute more to Open Source projects find some inspiration along the way 😄
-- ⚡ Fun fact: I love to play video games and build powerful machines that "flex on specs"
+- 🥅 2022 Goals: Contribute more to Open Source projects find some inspiration along the way 😄
+- ⚡ Fun fact: I love to play video games
 
 ### Languages and Tools:
 
@@ -31,4 +31,4 @@
 <a href="mailto:mudra.hemanth@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
 
-[website]: https://github.com/hmswrth/ReactApp
+[website]: https://saveo.in/
