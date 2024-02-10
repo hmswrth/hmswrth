@@ -2,12 +2,12 @@
 
 ### I'm a Full Stack Developer and a Web3 enthusiast!
 
-- 🔭 I’m currently working at [Saveo Healthtech][website]!
-- 🌱 I’m currently exploring React and Node.js 
+- 🔭 I work at [Nasdaq Inc.][website]!
+- 🌱 I’m currently mastering React and Node.js 
 - 👯 I’m looking to collaborate with other developers
-- 💬 Ask me about custom built PCs
-- 🥅 2022 Goals: Contribute more to Open Source projects find some inspiration along the way 😄
-- ⚡ Fun fact: I love to play video games
+- 💬 Ask me about custom-built PCs
+- 🥅 2024 Goals: Contribute more to Open Source projects and find some inspiration along the way 😄
+- ⚡ Fun fact: I love computer gaming
 
 ### Languages and Tools:
 
@@ -31,4 +31,4 @@
 <a href="mailto:mudra.hemanth@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
 
-[website]: https://saveo.in/
+[website]: https://www.nasdaq.com/
